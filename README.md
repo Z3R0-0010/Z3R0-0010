@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👩🏻‍💻 Henrique Burnheiro
 
-<!--
-**Z3R0-0010/Z3R0-0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedora FullStack`**
 
-Here are some ideas to get you started:
+Me chamo Henrique Santos Brunheiro, Tenho 18 anos e sou paulista. Concluí o ensino médio na Etec, graduando como técnico em eletrônica. Atualmente, curso Engenharia de Software na UNICID. Amo tecnologia e suas vertentes, principalmente quando se trata de back-end. Novo nesse mundo porém com bastante curiosidade, planejo seguir carreira com Python e IA, possivelmente migrando para Julia em alguns anos. Github limpo, por enquanto...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
