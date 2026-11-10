@@ -15,6 +15,6 @@ Me chamo Henrique Santos Brunheiro, Tenho 18 anos e sou paulista. Concluí o ens
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-
+/>
 <br/>
 <br/>
